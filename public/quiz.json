@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyper Tool Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "id": "02",
+        "question": "Which of the following tags is used to define a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<ref>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": "03",
+        "question": "In JavaScript, which keyword is used to declare variables?",
+        "options": [
+            "var",
+            "let",
+            "const",
+            "var, let, and const are all valid"
+        ],
+        "answer": "var, let, and const are all valid"
+    },
+    {
+        "id": "04",
+        "question": "What is the correct way to include an external JavaScript file named 'script.js' in HTML?",
+        "options": [
+            "<script src='script.js'></script>",
+            "<script name='script.js'></script>",
+            "<script href='script.js'></script>",
+            "<js src='script.js'></js>"
+        ],
+        "answer": "<script src='script.js'></script>"
+    },
+    {
+        "id": "05",
+        "question": "Which HTML tag is used to define a paragraph?",
+        "options": [
+            "<p>",
+            "<paragraph>",
+            "<para>",
+            "<pg>"
+        ],
+        "answer": "<p>"
+    },
+    {
+        "id": "06",
+        "question": "What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Creative Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "id": "07",
+        "question": "In JavaScript, what is the 'DOM'?",
+        "options": [
+            "Document Object Model",
+            "Digital Object Model",
+            "Dynamic Object Model",
+            "Data Object Model"
+        ],
+        "answer": "Document Object Model"
+    },
+    {
+        "id": "08",
+        "question": "Which attribute is used to include an external CSS file in HTML?",
+        "options": [
+            "style",
+            "src",
+            "link",
+            "href"
+        ],
+        "answer": "href"
+    },
+    {
+        "id": "09",
+        "question": "What is the correct way to comment in JavaScript?",
+        "options": [
+            "// This is a comment",
+            "<!-- This is a comment -->",
+            "/* This is a comment */",
+            "' This is a comment"
+        ],
+        "answer": "// This is a comment"
+    },
+    {
+        "id": "10",
+        "question": "Which HTML tag is used to define a list item?",
+        "options": [
+            "<li>",
+            "<list>",
+            "<ul>",
+            "<ol>"
+        ],
+        "answer": "<li>"
+    }
+]
